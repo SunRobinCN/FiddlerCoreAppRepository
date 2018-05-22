@@ -1,2 +1,9 @@
 
 .vs/FiddlerCapture/v15/.suo
+bin/Debug/makecert.exe
+*.exe
+*.pdb
+*.ide
+*.lock
+*.exe
+*.pdb
